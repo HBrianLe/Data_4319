@@ -6,7 +6,7 @@ This is a repository of all projects created in my Data Science Machine Learning
 <li>Supervised</li>
 <ul>
 <li>Perceptron Algorithm</li>
-  <li>k nearest neighbor</li>
+  <li>K Nearest Neighbor</li>
 </ul>
 <li>Unsupervised </li>
 </ul>
