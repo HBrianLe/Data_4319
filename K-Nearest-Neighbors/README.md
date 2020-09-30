@@ -1,11 +1,16 @@
-# Data_4319
+## Julia K Nearest Neighbors 
 
-This is a repository of all projects created in my Data Science Machine Learning class in Fall 2020. Files in this repository contain created projects created without any specific machine learning libraries. Contained are both supervised and unsupervised learning programs. 
+This is a project of K Nearest Neighbors in the [Chronic kidney disease](https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease) dataset. 
 
 <ul>
-<li>Supervised</li>
+<li>Concepts using in this algorithm </li>
 <ul>
-<li>Perceptron Algorithm</li>
+<li>Selecting data for KNN representation</li>
+<li>Visualize the data that is being selected </li>
+<li>Understanding the distance or Euclidean formulas for two points</li>
+<li>Apply and correctly classifying the point selected to the right class</li>
+<li>Find a K value that produces the lowest error margin as a result</li>
 </ul>
-<li>Unsupervised </li>
 </ul>
+
+
