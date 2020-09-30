@@ -9,3 +9,6 @@ This is a repository of all projects created in my Data Science Machine Learning
 </ul>
 <li>Unsupervised </li>
 </ul>
+
+
+This class is taught at the University of Houston Downtown by Randy Davila, Ph.D. -  Assistant Professor of Data Science. 
