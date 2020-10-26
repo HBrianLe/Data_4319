@@ -1,15 +1,14 @@
-## Julia K Nearest Neighbors 
+## Julia Linear Regression
 
-This is a project of K Nearest Neighbors in the [Chronic kidney disease](https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease) dataset. 
-
+This is a project of Homes SQFT and their prices. This is a random housing dataset found online. 
 <ul>
 <li>Concepts using in this algorithm </li>
 <ul>
-<li>Selecting data for KNN representation</li>
-<li>Visualize the data that is being selected </li>
-<li>Understanding the distance or Euclidean formulas for two points</li>
-<li>Apply and correctly classifying the point selected to the right class</li>
-<li>Find a K value that produces the lowest error margin as a result</li>
+<li>Selecting data for Linear Regression representation</li>
+<li>Visualize the data that is linear to be tested on</li>
+<li>Using Split train and Split Test for model validation</li>
+<li>Apply a model built for split train onto the split test in our model</li>
+<li>Find an error value to create boundries for our model</li>
 </ul>
 </ul>
 
