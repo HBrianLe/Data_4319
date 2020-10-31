@@ -5,7 +5,6 @@ This is a project of Gradient Descent in julia. We also apply linear regression 
 <ul>
 <li>Concepts using in this algorithm </li>
 <ul>
-<li></li>
 <li>Visualize the the process of gradient descent </li>
 <li>Update process of gradient descent at each point</li>
 <li>Selecting the right alpha values for updating our descent</li>
