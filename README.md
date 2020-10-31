@@ -8,6 +8,7 @@ This is a repository of all projects created in my Data Science Machine Learning
 <li>Perceptron Algorithm</li>
   <li>K Nearest Neighbor</li>
   <li>Linear Regression</li>
+  <li>Logistic Regression</li>
 </ul>
 <li>Unsupervised </li>
 </ul>
