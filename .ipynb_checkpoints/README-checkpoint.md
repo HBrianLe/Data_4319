@@ -7,27 +7,27 @@ This is a repository of all projects created in my Data Science Machine Learning
 <ul>
 <li>Perceptron Algorithm</li>
     <ul> 
-        <lu> Julia - Scrach </lu>
-        <lu> Python - Using Scikit learn packages </lu>
+        <li> Julia - Scrach </li>
+        <li> Python - Using Scikit learn packages </li>
     </ul>
         
   <li>K Nearest Neighbor</li>
     <ul> 
-        <lu> Julia - Scrach </lu>
+        <li> Julia - Scrach </li>
     </ul>
   <li>Linear Regression</li>
     <ul> 
-        <lu> Julia  - Using Normal Equation - Scrach </lu>
-        <lu> Python - Using Normal Equation - Scrach, Scikit learn packages and Gradient Descent</lu>
+        <li> Julia  - Using Normal Equation - Scrach </li>
+        <li> Python - Using Normal Equation - Scrach, Scikit learn packages and Gradient Descent</li>
     </ul>
   <li>Logistic Regression</li>
     <ul> 
-        <lu> Julia  - Scrach </lu>
+        <li> Julia  - Scrach </li>
     </ul>
 </ul>
 <li>Unsupervised </li>
     <ul> 
-        <lu> Julia - Scrach  </lu>
+        <li> Julia - Scrach  </li>
 
 </ul>
 
