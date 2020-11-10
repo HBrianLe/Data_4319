@@ -25,10 +25,15 @@ This is a repository of all projects created in my Data Science Machine Learning
         <li> Julia  - Scrach </li>
     </ul>
 </ul>
+    
 <li>Unsupervised </li>
     <ul> 
+        <li> K-Means </li>
+        <ul>
         <li> Julia - Scrach  </li>
+        </ul>
 
+       
 </ul>
 
 
