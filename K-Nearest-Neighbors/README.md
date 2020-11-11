@@ -1,4 +1,4 @@
-## Julia K Nearest Neighbors 
+##  K Nearest Neighbors 
 
 This is a project of K Nearest Neighbors in the [Chronic kidney disease](https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease) dataset. 
 
