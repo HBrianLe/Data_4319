@@ -1,4 +1,4 @@
-## Julia Perceptron 
+## Perceptron 
 
 First demonstration of perceptron algorithm on the Iris Dataset.
 
