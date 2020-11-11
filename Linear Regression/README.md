@@ -1,4 +1,4 @@
-## Julia Linear Regression
+## Linear Regression
 
 This is a project of Homes SQFT and their prices. This is a random housing dataset found online. 
 <ul>
