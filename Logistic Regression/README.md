@@ -1,4 +1,4 @@
-## Julia Logistic Regression
+## Logistic Regression
 
 This is a project of classifying iris flowers in the Iris dataset. Within this, the use of Gradient Descent allows us to train our model to the right values for the sigmoid function. 
 <ul>
