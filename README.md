@@ -24,6 +24,11 @@ This is a repository of all projects created in my Data Science Machine Learning
     <ul> 
         <li> Julia  - Scrach </li>
     </ul>
+   <li>Gradient Descent</li>
+    <ul> 
+        <li> Julia  - Scrach and Linear Regression </li>
+    </ul>
+
 </ul>
     
 <li>Unsupervised </li>
