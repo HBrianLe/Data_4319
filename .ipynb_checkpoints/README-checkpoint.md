@@ -28,6 +28,10 @@ This is a repository of all projects created in my Data Science Machine Learning
     <ul> 
         <li> Julia  - Scrach and Linear Regression </li>
     </ul>
+    <li>Neural Network</li>
+    <ul> 
+        <li> Julia  - Scrach (Multilayered Perceptron) </li>
+    </ul>
 
 </ul>
     
