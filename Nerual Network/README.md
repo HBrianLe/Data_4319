@@ -1,4 +1,4 @@
-## Logistic Regression
+## Neural Network
 
 This is a project is the use of a artifical neural network from scrach. We use the main concept of multilayered perceptron to build this model and used backpropagation to trace back our errors to adjsut the weights. We applied this network on to the MNIST dataset of computer vision numbers for this project. 
 
