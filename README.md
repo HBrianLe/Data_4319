@@ -1,49 +1,39 @@
 # Data_4319
+___
+This is a repository of all projects created in my Data Science Machine Learning class in Fall 2020. Files in this repository are of jupyter notebooks that are created from the machine learning algorithms that are learned in class or topics not discuss in class but referenced and mentioned in class. This repository contains a mixture of supervised and unsupervised learning algorithms. 
 
-This is a repository of all projects created in my Data Science Machine Learning class in Fall 2020. Files in this repository contain created projects created without any specific machine learning libraries. Contained are both supervised and unsupervised learning programs. 
+___
+The notebook contains two main languages to create machine learning projects that of Python and Julia. 
 
-<ul>
-<li>Supervised</li>
-<ul>
-<li>Perceptron Algorithm</li>
-    <ul> 
-        <li> Julia - Scrach </li>
-        <li> Python - Using Scikit learn packages </li>
-    </ul>
-        
-  <li>K Nearest Neighbor</li>
-    <ul> 
-        <li> Julia - Scrach </li>
-    </ul>
-  <li>Linear Regression</li>
-    <ul> 
-        <li> Julia  - Using Normal Equation - Scrach </li>
-        <li> Python - Using Normal Equation - Scrach, Scikit learn packages and Gradient Descent</li>
-    </ul>
-  <li>Logistic Regression</li>
-    <ul> 
-        <li> Julia  - Scrach </li>
-    </ul>
-   <li>Gradient Descent</li>
-    <ul> 
-        <li> Julia  - Scrach and Linear Regression </li>
-    </ul>
-    <li>Neural Network</li>
-    <ul> 
-        <li> Julia  - Scrach (Multilayered Perceptron) </li>
-    </ul>
+Python projects in this notebook are made using imported machine learning libraries including Scikit Learn, keras, and Tensorflow. For these projects, we will follow the topics discussed in "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurelien Geron (2nd Edition). A link to a copy of the book can be found [here](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 
-</ul>
-    
-<li>Unsupervised </li>
-    <ul> 
-        <li> K-Means </li>
-        <ul>
-        <li> Julia - Scrach  </li>
-        </ul>
+Python (V.3.8)
 
-       
-</ul>
+Julia projects in this notebook are made from scratch. Julia is a high level, high performance, dynamic programming language that can be used for Data Science, computing and Machine Learning. Our goal with julia is to use the high performance math computation for the creation of files from scratch. To learn more about Julia, you can find a link [here](https://docs.julialang.org/en/v1/), for documentation of the Language.    
+
+Julia (V.1.5)
+___
+
+
+The projects in this class include but not limited to the following algorithms:
+
+<li> Perceptron </li>
+<li> K-Nearest Neighbors</li>
+<li> Linear Regression </li>
+<li> Logistic Regression </li>
+<li> Neural Networks </li>
+<li> K-Means Clustering </li>
+<li> Other Algorithms  </li>
+
+
+___
+
+Within many of these algorithms, the following topics may be covered:
+
+<li> Generating artificial data </li>
+<li> Partition of data for training and testing</li>
+<li> Performance Measures of errors </li>
+<li> Creation of Functions for updates  </li>
 
 
 
