@@ -14,3 +14,5 @@ First demonstration of perceptron algorithm on the Iris Dataset in Python. We wi
 </ul>
 
 
+___
+For further documentation of the perceptron model in greater details, please follow this [Link](https://github.com/HBrianLe/Data_4319/blob/master/Julia/Perceptron/Julia%20Perception%20File%20.ipynb) to my other perceptron file made in Julia. 
