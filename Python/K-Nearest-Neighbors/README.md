@@ -3,7 +3,7 @@
 Here, we demonstrated the K-nearest Neighbors Algorithm in ways in python. First is the use of scikit learn packages to produce a model. The second is using scratch python code to model the k-nearest neighbor model. Both models produce similar results but using preset packages are much more efficient and faster than scratch. 
 
 <ul>
-<li>Concepts using in this projet </li>
+<li>Concepts using in this project </li>
 <ul>
 <li>Import and calling of functions from packages</li>
 <li>Creation of feature set and label or class set in the data </li>
