@@ -7,6 +7,7 @@ This folder contains Machine Learning Projects using Python. In this, we make va
 <ul>
 <li>Decision Tree Model (Scikit Learn)</li>
 <li>K-Nearest-Neighbors Model (Scratch and Scikit Learn)</li>
+<li>K-Means (Scikit Learn)</li>
 <li>Neural Network</li>
 <li>Perceptron Model (Scikit Learn)</li>
 <li>Regression Model (Scratch, Scikit, and Gradient Descent)</li>
