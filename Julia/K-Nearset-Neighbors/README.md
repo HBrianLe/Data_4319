@@ -14,3 +14,8 @@ This is a project of K Nearest Neighbors in the [Chronic kidney disease](https:/
 </ul>
 
 
+____
+
+Also in this notebook we have Julia Pluto. Pluto is a julia package environment that features interactive notebooks. You can read more about it [here](https://github.com/fonsp/Pluto.jl). Today, I used Pluto to use some of the basic KNN features such as selecting a point and selecting the K value for the model. You can watch the interactive notebook demo on my [Google Drive](https://drive.google.com/file/d/1Fy-rKSpFAr7MC6RPQgLq_qZ1GWC7yzOL/view?usp=sharing) or you can download it and work with it. 
+
+
